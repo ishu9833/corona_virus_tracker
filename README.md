@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![](https://github.com/ishu9833/corona_virus_tracker/blob/master/src/images/corona.png)
+![](https://github.com/ishu9833/corona_virus_tracker/blob/master/src/images/Covid-app.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
