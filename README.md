@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# COVID-19 Tracker
 
 ![](https://github.com/ishu9833/corona_virus_tracker/blob/master/src/images/Covid-app.PNG)
 
